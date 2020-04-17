@@ -1,2 +1,2 @@
-# Пример блока с табами. 
-## Содержит файлы HTML/CSS/JS. С использованием Bootstrap-grid.
+# Example of a block with tabs.
+## Contains files HTML/CSS/JS. With the use Bootstrap-grid.
